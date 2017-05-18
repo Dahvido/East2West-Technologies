@@ -1,4 +1,4 @@
-/*== Custom Javascript 
+/*== Custom Javascript
 ======================================================== */
 $(window).scroll(function(e){
 	if($(window).scrollTop() > 0){
@@ -40,3 +40,4 @@ $(window).on("resize load", function(){
 		$(".toggle-mobile-btn").removeClass("open");
 	}
 });
+/* Man I am good */ 
