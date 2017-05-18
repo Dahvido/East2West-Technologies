@@ -1,6 +1,22 @@
 /*Custom CSS*/
-#title {
+p {
+  font-size: 15px;
+  font-family: 'Helvetica', sans-serif, serif;
+}
+
+#titleSection {
+  background-color: #fff;
   text-align: center;
+}
+
+#title {
   color: orange;
   font-weight: 300;
+}
+
+#quickInfo {
+  background-color: #eee;
+  text-align: right;
+  font-family: 'Helvetica', sans-serif, serif;
+  font-size: 14px;
 }
