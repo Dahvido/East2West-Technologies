@@ -1,6 +1,6 @@
 /*Custom CSS*/
 p {
-  font-size: 15px;
+  font-size: 18px;
   font-family: 'Helvetica', sans-serif, serif;
 }
 
@@ -12,11 +12,11 @@ p {
 #title {
   color: orange;
   font-weight: 300;
+  margin-top: 50px;
 }
 
 #quickInfo {
   background-color: #eee;
   text-align: right;
   font-family: 'Helvetica', sans-serif, serif;
-  font-size: 14px;
 }
