@@ -1,7 +1,16 @@
 /*Custom CSS*/
+body {
+    height: auto;
+}
+
 p {
   font-size: 18px;
   font-family: 'Helvetica', sans-serif, serif;
+}
+
+.footer {
+    height: auto;
+    background-color: black;
 }
 
 #titleSection {
@@ -16,7 +25,22 @@ p {
 }
 
 #quickInfo {
+  height: auto;
   background-color: #eee;
   text-align: right;
   font-family: 'Helvetica', sans-serif, serif;
+}
+
+#basicsSection {
+    height: auto;
+    background-color: #fff;
+    text-align: left;
+    font-family: 'Helvetica', sans-serif, serif;
+}
+
+#lastSection {
+    height: auto;
+    background-color: #eee;
+    text-align: right;
+    font-family: 'Helvetica', sans-serif, serif;
 }
