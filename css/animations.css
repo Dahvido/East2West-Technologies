@@ -64,4 +64,11 @@
     .scene_element--fadeinright {
         animation-name: fadeInRight;
     }
+
+    /** Reverse "exit" animations */
+    &.is-exiting {
+      .scene_element {
+          animation-direction: alternate-reverse;
+      }
+    }
 }
