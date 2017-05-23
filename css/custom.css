@@ -14,14 +14,20 @@ p {
 }
 
 #titleSection {
-  background-color: #fff;
+  background-image: url('../images/diagonal_line.png');
+  repeat: no-repeat;
+  z-index: 1;
+  background-size: 100%;
   text-align: center;
+  height: 595px;
 }
 
 #title {
   color: orange;
-  font-weight: 300;
+  font-weight: 200;
   margin-top: 50px;
+  font-size: 75px !important;
+  font-family: monospace serif !important;
 }
 
 #quickInfo {
